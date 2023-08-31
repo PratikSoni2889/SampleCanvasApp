@@ -1,0 +1,27 @@
+{
+  "67f88dc3-1f90-43e6-995c-4c862fc1813d": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/shgogna/globalperconnector-train1/1.0.1639.3310/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://powercretd365.sharepoint.com/sites/PreSales": {
+        "dataSources": {
+          "3D Models": {
+            "tableName": "60cfa414-2685-4683-b62c-cd44d3805edc"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "3D Models"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "67f88dc3-1f90-43e6-995c-4c862fc1813d"
+  }
+}
