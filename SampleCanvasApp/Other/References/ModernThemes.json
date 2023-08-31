@@ -3,6 +3,26 @@
     {
       "EntityName": "PowerAppsTheme",
       "ThemeName": "PowerAppsTheme"
+    },
+    {
+      "EntityName": "SteelTheme",
+      "ThemeName": "SteelTheme"
+    },
+    {
+      "EntityName": "RedTheme",
+      "ThemeName": "RedTheme"
+    },
+    {
+      "EntityName": "OrangeTheme",
+      "ThemeName": "OrangeTheme"
+    },
+    {
+      "EntityName": "GreenTheme",
+      "ThemeName": "GreenTheme"
+    },
+    {
+      "EntityName": "PlatinumTheme",
+      "ThemeName": "PlatinumTheme"
     }
   ]
 }
