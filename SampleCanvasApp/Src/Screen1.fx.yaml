@@ -106,7 +106,7 @@ Screen1 As screen:
     "tabListHome As 'Tab list'.pcfdataset":
         DisplayMode: =DisplayMode.Edit
         Height: =54
-        Items: =["MR Using Barcode", "MR Using Gallery"]
+        Items: =["1. MR Using Barcode", "2. MR Using Gallery"]
         OnChange: =Set(varUrl, "")
         Size: ='TabList.Size'.Large
         Width: =640
